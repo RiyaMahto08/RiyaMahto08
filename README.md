@@ -38,7 +38,7 @@ A software-based platform designed to support **fuel quantity monitoring, fuel q
 
 The prototype demonstrates how fuel-related verification and compliance processes can be digitized to improve **transparency, traceability, and monitoring**.
 
-🌐 **[Live Web App](https://fuel-guard-jxbt2e1b7-riyamahto2006-7719.vercel.app/)**  
+🌐 **[Live Web App](https://fuel-guard-jxbte21b7-riyamahto2006-7719.vercel.app)**  
 📂 **[GitHub Repository](https://github.com/RiyaMahto08/FuelGuard)**
 
 ---
